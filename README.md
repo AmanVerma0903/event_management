@@ -2,6 +2,16 @@
 
 A modern, full-stack event management application built with React.js and Node.js, designed to help users plan and organize various types of events with ease.
 
+## 🖼️ Landing Page Preview
+
+Here's a preview of the WanderLust landing page:
+
+![CelebrateIt Landing Page](https://github.com/AmanVerma0903/event_management/blob/e2f05634189176480608a68a0ea508b82b1c100a/event_management.png)
+
+---
+
+
+
 ## ✨ Features
 
 - **Responsive Design**: Modern, mobile-friendly UI with smooth animations
